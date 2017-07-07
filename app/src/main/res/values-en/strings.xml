@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="altura">Height</string>
+    <string name="peso">Weight</string>
+    <string name="abaixo_peso">Underweight with </string>
+    <string name="saudavel">Healthy with </string>
+    <string name="peso_execesso">Weight excess with execesso em execesso com </string>
+    <string name="ob_1">Obesity grade I </string>
+    <string name="ob_2">Obesity grade II with </string>
+    <string name="ob_3">Obesity grade III with </string>
+</resources>

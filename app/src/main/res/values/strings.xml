@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="abaixo_peso">Abaixo do peso com </string>
+    <string name="saudavel">Saudável com </string>
+    <string name="peso_execesso">Peso em excesso com </string>
+    <string name="ob_1">Obesidade grau I </string>
+    <string name="ob_2">Obesidade grau II com </string>
+    <string name="ob_3">Obesidade grau III com </string>
+</resources>
